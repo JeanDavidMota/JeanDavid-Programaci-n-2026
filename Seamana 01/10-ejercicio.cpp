@@ -1,7 +1,6 @@
 #include <iostream>
 using namespace std;
-
 int main() {
-    cout << "Hola Jean"; // O tu nombre real
+    cout << "Estoy aprendiendo C++";
     return 0;
 }
